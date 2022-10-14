@@ -22,10 +22,10 @@
 > 837행 9열 배열이 만들어 집니다.
 
 > <img src="./crawling-textmining images/stopwords.jpg" alt="stopwords"></img><br/>
-> 불요어(분석에 의미없는(필요없는) 단어)를 제거해 줍니다. 여기에선 rt(리트윗), bts, BTS를 불요어로 지정하였습니다. bts로 검색하였기 때문에 bts(BTS)가 많이 나올 것이고, 이 bts(BTS)라는 단어는 분석에 필요없는 단어입니다.
+> 불용어(분석에 의미없는(필요없는) 단어)를 제거해 줍니다. 여기에선 rt(리트윗), bts, BTS를 불요어로 지정하였습니다. bts로 검색하였기 때문에 bts(BTS)가 많이 나올 것이고, 이 bts(BTS)라는 단어는 분석에 필요없는 단어입니다.
 
 > <img src="./crawling-textmining images/전처리2022.jpg" alt="전처리2022"></img><br/>
-> 불요어와 특별한 의미가 없는 단어를 없앤 전처리 결과입니다.
+> 용용어와 특별한 의미가 없는 단어를 없앤 전처리 결과입니다.
  
 > <img src="./crawling-textmining images/word cloud2022.png" alt="word cloud2022"></img><br/>
 > word cloud로 나타낸 결과입니다. 빈도 수가 많을 수록 단어가 크게 보입니다. Pop, Duo, Group, Favorite이 관련 키워드로 많이 검색된 걸 알 수 있습니다.
@@ -47,7 +47,7 @@
 > 앞과 같이 내용(content)에 나온 것만 걸러 944행 9열 배열이 만들어 집니다.
 
 > <img src="./crawling-textmining images/전처리2019.jpg" alt="전처리2019"></img><br/>
-> 불요어와 특별한 의미가 없는 단어를 없앤 전처리 결과입니다.
+> 불용어와 특별한 의미가 없는 단어를 없앤 전처리 결과입니다.
 
 > <img src="./crawling-textmining images/word cloud2019.png" alt="word cloud2019"></img><br/>
 > word cloud로 나타낸 결과입니다. ARMY, yes, JIMIN이 관련 키워드로 많이 검색된 걸 알 수 있습니다.
